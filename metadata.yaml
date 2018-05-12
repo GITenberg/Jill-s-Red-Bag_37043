@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3736
 description: Jill demonstrates the importance of sacrificial giving and the great
   rewards it brings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37043#Jill-s-Red-Bag
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
 identifiers:
